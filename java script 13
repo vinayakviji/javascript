@@ -1,0 +1,15 @@
+OCTYPE html>
+<html>
+    <head>
+        
+    </head>
+    <body>
+        <h2>hi everyone</h2> 
+       
+        <p>hellow class</p>
+         <script>
+             document.write(5+6);
+         </script>
+    
+    </body>
+</html>
