@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <p id="demo"></p>
+    </head>
+    <body>
+ <script>
+var car=["maruty","volvo","bmw"];
+document.getElementById("demo").innerHTML=car[0];    
+    </script>
+</body>
+</html>
