@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    </head>
+    <body>
+            <p id="demo"></p>
+ <script>
+var color=["red","yellow","blue","green","vilot","brown","black","white","pink","orange","purple","lightyellow","golden"];
+document.getElementById("demo").innerHTML=color[1];
+</script>
+</body>
+</html>
