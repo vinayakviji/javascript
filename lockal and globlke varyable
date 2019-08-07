@@ -1,0 +1,15 @@
+        <!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <script>
+            var a="iiht institue";
+            function hello() {
+                document.write(a);
+            }
+            hello();
+       //document.write(a)
+            </script>                             
+    </body>
+</html>
