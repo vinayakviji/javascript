@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+    function hello(){
+        document.write("hellow vinayak n kutty");
+    }
+    </script>
+    </head>
+    <body>
+    <button onclick="hello()">click me</button>
+    <p ondblclick="hello()">click me</p>
+    </body>
+    </html>
