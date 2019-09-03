@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function newDoc() {
+  window.location.assign("https://www.youtube.com/watch?v=3mGDhsd3Lz0")
+}
+</script>
+</head>
+<body>
+
+<input type="button" value="Load new document" onclick="newDoc()">
+
+</body>
+</html>
